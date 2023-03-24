@@ -36,8 +36,8 @@
 	--offline-color: rgba(69,68,68,1); /* offline/invisible status color (hex, rgb or hsl) [default: #808080] */
 
 	/* GENERAL */
-	--main-font: Minecraftia; /* main font for app (font must be installed) [default: Whitney, Helvetica Neue, Helvetica, Arial, sans-serif] */
-	--code-font: Minecraftia; /* font for codeblocks (font must be installed) [default: Consolas, Liberation Mono, Menlo, Courier, monospace] */
+	--main-font: url(/Minecraftia.ttf); /* main font for app (font must be installed) [default: Whitney, Helvetica Neue, Helvetica, Arial, sans-serif] */
+	--code-font: url(/Minecraftia.ttf); /* font for codeblocks (font must be installed) [default: Consolas, Liberation Mono, Menlo, Courier, monospace] */
     --font-size: 20px; /* This can be changed if your Font is Cliping outside of the boxes [Default: 12px] */
 	--server-columns: 1; /* amount of server list columns [default: 1] */
 	--channels-width: 240px; /* channel list width (240px for Discord default) [default: 220px] */
